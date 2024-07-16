@@ -1,0 +1,10 @@
+universidades\universidades\config\JaegerContextListener.class
+universidades\universidades\services\CORSFilter.class
+universidades\universidades\services\PathBase.class
+universidades\universidades\services\UniversidadesServices.class
+universidades\universidades\business\GestionDatos.class
+universidades\universidades\dao\UniversidadDAO.class
+universidades\universidades\config\JaegerConfig.class
+universidades\universidades\services\ErrorMessage.class
+universidades\universidades\business\GestionUniversidades.class
+universidades\universidades\model\Universidad.class
